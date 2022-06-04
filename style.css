@@ -1,0 +1,29 @@
+video{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.life_mainDiv{
+    border: 2px solid black;
+}
+.life_mainDiv img{
+    width: 100%;
+}
+.ach_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.ach_head i{
+    float: right;
+}
+.ach_text span{
+    color: gold;
+}
+.whatsnew{
+    margin-bottom: 20px;
+}
+#contacts iframe{
+    width: 100%;
+}
